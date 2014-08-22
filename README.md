@@ -1,2 +1,2 @@
-SwiftProtocolDelegateTutorial
-=============================
+SwiftSwipeView
+==============
