@@ -14,7 +14,7 @@ class AViewController: UIViewController {
         self.delegate?.moveToView(2);
     }
     
-    var delegate:ContainerViewController?
+    var delegate:ViewChanger?
     
     override func viewDidLoad() {
         super.viewDidLoad()
